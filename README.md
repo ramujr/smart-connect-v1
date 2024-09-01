@@ -1,1 +1,0 @@
-# smart-connect-v1
